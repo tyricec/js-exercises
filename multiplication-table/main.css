@@ -1,0 +1,11 @@
+td {
+    border: 1px solid black;
+    border-spacing: 0;
+    border-collapse: unset;
+    font-size: 24px;
+    padding: 16px;
+}
+
+.darker {
+    background: #ececfc;
+}
